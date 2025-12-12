@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Workout Timer",
+  "description": "An intelligent workout timer application that allows users to create, save, and run custom exercise programs. It's designed to be embedded within Google App Script and uses Google Drive for data persistence.",
+  "requestFramePermissions": []
+}
